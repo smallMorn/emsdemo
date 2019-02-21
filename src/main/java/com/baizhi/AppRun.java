@@ -19,6 +19,12 @@ import java.util.Properties;
 public class AppRun {
 
 	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
 
 		SpringApplication.run(AppRun.class, args);
 	}
